@@ -1,6 +1,6 @@
 # EscapeRoom
-Escape room is one of my favorite games. You have to uses items in proper place to escape the room. Some items might be hidden, so you have to find them in someplace.\
-Try compete with your friend who can eacape faster!!!
+Escape room is one of my favorite games. You have to uses items in proper place to escape the room. Some items might be hidden, so you have to find them through the game.\
+Try compete with your friend who can eacape faster!!!\
 <img src="./20200831_175509.jpg" width=600 height=400>
 
 # How to play
